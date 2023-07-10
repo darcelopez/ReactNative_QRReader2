@@ -1,7 +1,8 @@
 # NOTAS
 GitHub: https://github.com/moaazsidat/react-native-qrcode-scanner
 Este ejemplo usa el repo 'react-native-qrcode-scanner' que a su vez depende de 'react-native-camera'
-Muestra la imagen de la caamara pero tiene un error:
+
+Muestra la imagen de la camara pero tiene un error:
 ```shell
 ViewPropTypes will be removed from React Native, along with all other PropTypes. We recommend that you migrate away from PropTypes and switch to a type system like TypeScript. If you need to continue using ViewPropTypes, migrate to the 'deprecated-react-native-prop-types' package.
 ```
